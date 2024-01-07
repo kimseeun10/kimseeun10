@@ -1,15 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EBFF82&height=150&section=header" />
-<img width="70" src="https://github.com/kimseeun10/kimseeun10/assets/137882823/921cd61e-3a06-45db-8861-80928a95ff95" />
-
-<div>   
+<div height="30px">   
+<img width="50" src="https://github.com/kimseeun10/kimseeun10/assets/137882823/921cd61e-3a06-45db-8861-80928a95ff95" />
   
 ### KIM SE EUN 
 
-##### 시행착오 통해 성장하는 주니어 개발자 김세은입니다.
+##### 시행착오 통해 성장하는 주니어 개발자 김세은입니다. 
   ---
 
 </div>
-<div height="50px">
+<div height="30px;">
 
 ![SKILL](https://img.shields.io/badge/SKILL-000000.svg?style=for-the-badge&logo=SKILL&logoColor=white) <br>
 
@@ -26,10 +24,6 @@
 ![nodedotjs](https://img.shields.io/badge/nodedotjs-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) 
   
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EBFF82&height=150&section=footer" />
-
-<br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimseeun10&count_bg=%23D3FFB1&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
