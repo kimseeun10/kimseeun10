@@ -19,9 +19,7 @@
 
 ![OTHER](https://img.shields.io/badge/OTHER-000000.svg?style=for-the-badge&logo=OTHER&logoColor=white) <br>
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white) ![github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![studying](https://img.shields.io/badge/studying-000000.svg?style=for-the-badge&logo=studying&logoColor=white) <br>
-![nodedotjs](https://img.shields.io/badge/nodedotjs-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+<br><br>
   
 </div>
 
